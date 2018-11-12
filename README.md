@@ -1,5 +1,4 @@
-
-
+# My nice program
 
 ## Pré-requis
 
